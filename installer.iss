@@ -1,7 +1,7 @@
 #define MyAppName "ObjectBuilder"
-#define MyAppVersion "0.5.5"
-#define MyAppPublisher "ObjectBuilder Community"
-#define MyAppURL "https://github.com/punkice3407/ObjectBuilder"
+#define MyAppVersion "0.6.1"
+#define MyAppPublisher "Jenison & Community"
+#define MyAppURL "https://github.com/jenison06/ObjectBuilder_by_Jenison"
 #define MyAppExeName "ObjectBuilder.exe"
 
 [Setup]
@@ -25,13 +25,13 @@ UninstallDisplayIcon={app}\{#MyAppExeName}
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
 
-VersionInfoVersion=0.5.5.0
-VersionInfoCompany=ObjectBuilder Community
+VersionInfoVersion=0.6.1.0
+VersionInfoCompany=Jenison & Community
 VersionInfoDescription=ObjectBuilder Installer
-VersionInfoTextVersion=0.5.5
+VersionInfoTextVersion=0.6.1
 VersionInfoCopyright=Copyright (C) 2014-2026 ObjectBuilder
 VersionInfoProductName=ObjectBuilder
-VersionInfoProductVersion=0.5.5.0
+VersionInfoProductVersion=0.6.1.0
 
 [Languages]
 Name: "brazilianportuguese"; MessagesFile: "compiler:Languages\BrazilianPortuguese.isl"
